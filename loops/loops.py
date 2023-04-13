@@ -2,7 +2,7 @@
     # body
 
 # i = 0 
-# while i < 10:
+# while i < 7:
 #     i += 1  #i = i +1
 #     print(f'sikl srabotal{i} raz')
 

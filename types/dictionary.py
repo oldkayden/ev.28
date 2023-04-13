@@ -6,13 +6,13 @@
 # тогда как значениями могут выступать любые типы данных.
 
 # thisdict = {
-    # "brand" :"Ford",
+#     "brand" :"Ford",
 #     "model" : "Mustang",
 #     "year" : 1967
 # }
 
-# print(thisdict)
-# print(type(thisdict))
+# # print(thisdict)
+# # print(type(thisdict))
 # print(thisdict["brand"], thisdict["model"])
 # print(thisdict["year"])
 
