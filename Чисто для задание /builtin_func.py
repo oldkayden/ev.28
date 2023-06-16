@@ -143,7 +143,13 @@ enumerate(iterable) - пронумеровывает каждый элемент
 
 
 
-
+class Alphabet:
+    def __init__(self):
+        self.a = 'QWERTY'
+        self.c = 'ASDF'
+        print(self.__c)
+obj = Alphabet()
+print(obj.a)
 
 
 
